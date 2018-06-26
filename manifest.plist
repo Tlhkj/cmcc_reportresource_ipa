@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.5.129:8081/download/cmcc_reportresource.ipa</string>
+					<string>http://192.168.5.129:8081/download/58.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.5.129:8081/download/cmcc_reportresource.ipa</string>
+					<string>http://192.168.5.129:8081/download/512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
