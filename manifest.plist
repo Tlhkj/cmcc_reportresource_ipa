@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.5.129:8081/download/cmcc_reportresource.ipa</string>
+					<string>http://221.180.160.129:9090/download/cmcc_reportresource.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.5.129:8081/download/58.jpg</string>
+					<string>http://221.180.160.129:9090/download/58.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.5.129:8081/download/512.jpg</string>
+					<string>http://221.180.160.129:9090/download/512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ccs.dev</string>
 				<key>bundle-version</key>
-				<string>1.4.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
