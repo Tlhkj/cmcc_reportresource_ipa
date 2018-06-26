@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://221.180.160.129:9090/resource/download/cmcc_reportresource.ipa</string>
+					<string>http://221.180.160.129:9090/download/cmcc_reportresource.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://221.180.160.129:9090/resource/download/58.jpg</string>
+					<string>http://221.180.160.129:9090/download/58.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://221.180.160.129:9090/resource/download/512.jpg</string>
+					<string>http://221.180.160.129:9090/download/512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
